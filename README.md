@@ -40,7 +40,7 @@ Un juego donde el usuario tiene que adivinar un número del 1 al 100 y recibe pi
 ## 📫 Contacto
 
 - ✉️ kevinbduque123@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/kevin-barrera-duque-284a65374)  
+- 💼 [Mi LinkedIn](https://www.linkedin.com/in/kevin-barrera-duque-284a65374)
 - 📞 +573506307888
 
 ---
